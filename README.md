@@ -5,6 +5,7 @@ Hi i'm Erosfrom Mozambique.
 I'm a front-end and back-end developer, I'm learning ReactJS, PhP, Rust and Java. I also enjoy wireframing, ui, ux, and graphic design. 
 
 ## Skills and Experience
+<table><tr><td valign="top" width="33%">
 ### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -33,7 +34,7 @@ I'm a front-end and back-end developer, I'm learning ReactJS, PhP, Rust and Java
 <br>
 <br>
 
-[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=envoy-vc&layout=compact)](https://github.com/ErosUtui/ErosUtui)
+[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=ErosUtui&layout=compact)](https://github.com/ErosUtui/ErosUtui)
 
 ## Examples of Work
 <!-- <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" > -->
