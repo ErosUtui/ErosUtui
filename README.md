@@ -5,7 +5,7 @@ Hi i'm Erosfrom Mozambique.
 I'm a front-end and back-end developer, I'm learning ReactJS, PhP, Rust and Java. I also enjoy wireframing, ui, ux, and graphic design. 
 
 ## Skills and Experience
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="25%">
 
  ### Frontend  
 <div align="center">  
@@ -15,18 +15,20 @@ I'm a front-end and back-end developer, I'm learning ReactJS, PhP, Rust and Java
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 </div>
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 ### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="JavaScript" height="50" />   
 </div>
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
   
-### Database 
+### Others 
 <div align="center">   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="MySQL" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-original-wordmark.svg" alt="MySQL" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="MySQL" height="50" />
 </div>
 
 </td></tr></table>  
