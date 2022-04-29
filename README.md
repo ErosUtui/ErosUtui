@@ -6,7 +6,7 @@ I'm a front-end and back-end developer, I'm learning ReactJS, PhP, Rust and Java
 
 ## Skills and Experience
 * ⚛ React
-* 📱 React Native
+<!-- * 📱 React Native -->
 * 💻 HTML, CSS, JS
 
 ## Examples of Work
