@@ -27,7 +27,7 @@ I'm a front-end and back-end developer, I'm learning ReactJS, PhP, Rust and Java
 <div align="center">   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="MySQL" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-original-wordmark.svg" alt="MySQL" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="MySQL" height="50" />
 </div>
 
