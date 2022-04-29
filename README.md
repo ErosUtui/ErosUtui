@@ -17,4 +17,4 @@ I'm a front-end and back-end developer, I'm learning ReactJS, PhP, Rust and Java
 ![Eros's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErosUtui&count_private=true)
 
 ### Contacts
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
