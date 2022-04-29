@@ -1,16 +1,13 @@
-### Hi there 👋
+<!-- ![Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg) -->
 
-<!--
-**ErosUtui/ErosUtui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Eros Derique Utui
+Hi i'm Erosfrom Mozambique.
+I'm a front-end and back-end developer, I'm learning ReactJS, PhP, Rust and Java. I also enjoy wireframing, ui, ux, and graphic design. 
 
-Here are some ideas to get you started:
+## Skills and Experience
+* ⚛ React
+* 📱 React Native
+* 💻 HTML, CSS, JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Examples of Work
+<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
