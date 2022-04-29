@@ -33,6 +33,8 @@ I'm a front-end and back-end developer, I'm learning ReactJS, PhP, Rust and Java
 <br>
 <br>
 
+[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=envoy-vc&layout=compact)](https://github.com/ErosUtui/ErosUtui)
+
 ## Examples of Work
 <!-- <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" > -->
 
@@ -41,7 +43,6 @@ I'm a front-end and back-end developer, I'm learning ReactJS, PhP, Rust and Java
 ![Eros's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErosUtui&count_private=true)
 
 ### Contacts
-
 
 ## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <br>
