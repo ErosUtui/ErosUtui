@@ -10,4 +10,4 @@ I'm a front-end and back-end developer, I'm learning ReactJS, PhP, Rust and Java
 * 💻 HTML, CSS, JS
 
 ## Examples of Work
-<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
+<!-- <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" > -->
