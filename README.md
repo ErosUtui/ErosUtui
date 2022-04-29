@@ -8,7 +8,10 @@ I'm a front-end and back-end developer, I'm learning ReactJS, PhP, Rust and Java
 * ⚛ React
 <!-- * 📱 React Native -->
 * 💻 HTML, CSS, JS
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 
 ## Examples of Work
 <!-- <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" > -->
+
+### Stats
+
+![Eros's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErosUtui&count_private=true)
