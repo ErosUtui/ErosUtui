@@ -30,12 +30,8 @@ I'm a front-end and back-end developer, I'm learning ReactJS, PhP, Rust and Java
 </div>
 
 </td></tr></table>  
-
-
 <br>
 <br>
-
-[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=ErosUtui&layout=compact)](https://github.com/ErosUtui/ErosUtui)
 
 ## Examples of Work
 <!-- <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" > -->
